@@ -1,7 +1,5 @@
-# Studies
-...
-
 ## Key words
+
 **Manoeuver**: manobra
 
 **Deeped Headlights**: farol baixo
@@ -150,6 +148,8 @@
 
 **Cover Note**: Temporary Insurance Certificate
 
+**Gap or Room**: Espaço de distância entre os veículos
+
 
 ## Resumo
 
@@ -175,156 +175,67 @@
 	- Carriageway:
 		- Dual Road  : 70mph (60mph trailers/ caminhões)
 		- Single Road: 60mph (50mph Trailers/ caminhões)
+	- Street Lights: 30mph
 
+- Não estacionar a menos de 10m de uma junção
 
+### Pneu / Brake / Combustível
 
+- Calibrar no Frio o pneu para maior precisão
 
+- 1,6mm de profundidade deve ter o risco do pneu
 
+- Evitar acelerar / Freiar desnecessariamente -> reduz 15% o gasto de combustível
 
-## Question that I remember
-- What is your **situation right know**?
+- Veículos a 70mph gastam 30% a mais do que veículos a 50mph
 
-- What is your notice period? (or some thing like that)
+- Use sempre o Brake Hand em uma fila em estradas... para que você poassa tiver o pé do foot brake e evitar dazzling os carros e trás
 
-- Are you **seeking/looking** for a **role/position**?
+- Missing out some gears (pular algumas marchas) - helps to save fuel
 
-- What **kinda** role are you looking in the moment?
+### Faixas
 
-- Do you have **the right to work** here?
+- Zebra - pedestres
 
-- Have you got a **Visa**?
+- Pelican - não tem sensor
 
-- What **visa** do you have?
+- Puffin - Só fica verde a luz para o motorista quando não tiver ninguem atravessando
 
-- What s your **right to work** here in UK?
+- Tucan - somente pedestres e ciclistas
 
-- Are you working here in this moment? 
+### Luz
 
-- Are you kinda working in a role right now? 
+- luzes nos veículos:
+	- Verde - Somente médico
+	- Azul - Ambulância + Polícia + Qualquer veículo relacionado com emergência (ex bombeiro, carro de desarmamento de bomba etc)
+	- Amarelo (Ambar) - Veículos Lentos (luz piscante - `flashing amber beacon`) OBS: Perto de cruzamentos com Trêm (também pode ser vermelho)
 
-- What s about your **availity**?
+- Freios ABS - a luz deve apagar quando o carro estiver entre 5 a 10 mph (evitar Dazzling quem estiver atrás)
 
-- Can you start in a **straight way**? __Você pode começar agora?__
+- Quando os trêns se aproximam, as placas de warning liveram uma luz ambar contínua (`Steady amber light`)
 
-- Can you start **immediately**? 
 
-- Can you join the company know?  (Você pode começar agora?) 
+### Signs
 
-- Have you worked here? 
 
-- Did you work here?
+- Placas
+	- Shape:
+		- Circular -> Ordem
+		- Triangular -> Aviso
+		- Retangular -> Informação
+		- Octogonal -> STOP (única placa assim é a de pare)
+	- Color:
+		- Blue - instruction
+		- Red - you MUST NOTTTTT DO
+	- Road Marking (marcas na pista):
+		- Information or Order or Warning...
 
-- Have you ever gotten a job here in this country?
 
-- When did you **arrive / get in** UK?
+### Lines Along the Road
 
-- What are your experiences in **previous works**?
+- Short Broken + white - Divide as lanes 
 
-- Could you talk to me about you previous work?
 
-- Can/could you talk a little bit about **YOUR SELF**?
 
-- What did you do in your last/**previous** project/job?
 
--  Are you willing to move to another place?
 
-- What is your **salary expectation**? 
-
-- What kinda salary are you looking for? 
-
-- What kinda salary are you seeking? 
-
-- Do you know anything about the company (NAME)?
-
-- Could you explain what you did in this app?
-
-- Do you have any questions for me?
-
-- Anything else?
-
-- Could I help you anything else?
-
-- Any question else?
-
-- Is there anything else we should know about you?
-
-## The Most commum word you will have listen in a intreview
-**in early** no começo
-
-**in the beginning** no começo
-
-**I found it interesting to** achei interessante
-
-**To be honest with you**: para ser sincero/honesto
-
-**practice makes perfect**
-
-**believe that**
-
-**committed**:comprometido
-
-**committed my self to do**:me comprometido a fazer
-
-**fast learner**:aprendo rápido
-
-**previous**:anterior
-
-**handle**: lidar, manusear
-
-**talk about**:fala sobre
-
-**several**:varios
-
-**due to**:devido a
-
-**Briefly**:brevemente, resumidamente
-
-**solving problems**
-
-**basically**:basicamente
-
-**anyway**: de qualquer forma
-
-**by the way**: a propósito
-
-**eclectic**:eclético
-
-**role**: função, papel, cargo.
-
-**position**: posição, cargo, vaga
-
-**job opportunity**
-
-**seeking / looking for**: procurando
-
-**to mention that**
-
-**kinda**: tipo de
-
-**visa**: visto
-
-**right to work**: direito de trabalhar
-
-**settle**: resolver/ajustar 
-
-**resolve**: resolver
-
-**improve**
-
-**dedicated**
-
-**hundred porcent**
-
-**in this moment**
-|
-**unemployed**: Desempregado
-
-**straight**: direto, direta, reto
-
-**way**: maneira, caminho, jeito
-
-**straight way**: "começar agora"
-
-**immediately**
-
-**availity**: disponibilidade
