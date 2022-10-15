@@ -1,7 +1,163 @@
-# Intreview Questions
-This repository is intended to help people who use the Portuguese language to train their listen for future questions in English during a selection process (based on my experience).
+# Studies
+...
 
-## The Most Intreview Questions that I have heard.
+## Keys words
+**Manoeuver**: manobra
+
+**Deeped Headlights**: farol baixo
+
+**Headlights**: farol do carro
+
+**Road Humps**: Lombada
+
+**Indicators**: Setas
+
+**Steering Wheel**: Volante
+
+**Kerb**: Sargeta / calçada
+
+**Parking Breaks**: Freio de mão
+
+**Clutch**: Embreagem
+
+**Bumper**: Para-choque
+
+**Skid**: Derrapar
+
+**Skidding**: Derrapagem
+
+**Wheelspin**: Patinagem
+
+**Swerve**: Desviar
+
+**Anti-lock breaking**: Freio ABS
+
+**Eletronic Stability Control (ESC)**:
+
+**Alert-Hazard**: Pisca Alerta
+
+**Head Restraint**: Apoio de cabeça
+
+**Gear Box**: Freio de mão
+
+**Narrow road**: Rua estreita
+
+**Hard-Shoulder**: Acostamento
+
+**ATM (Active Traffic Management)**: Auto Estrada que varia Velocidade de acordo com o fluxo de carro
+
+**Hazard**: Perigo
+
+**Motorway**: Auto Estrada
+
+**Carriage way road**: Estrada (Vehicles are not restricted by physical barriwers or separation)
+
+**Toucan Crossing**: Pessoas + Bicicleta apenas (Two Can)
+
+**Unlit**: apagado
+
+**Unlit Road**: estrada apagada
+
+**Lit road**: Estrada com iluminação
+
+**Overtake**: Ultrapassar
+
+**Hazard Perception**: Percepção de Perigo
+
+**Towed Caravains**: Reboque
+
+**Roundabout**: Rotatória
+
+**Lane**: Faixa
+
+**Headlight**: Farol
+
+**Deeped Headlight**: Farol Baixo
+
+**Full Beam Headlight**: Farol Alto
+
+**Fog Light**: Luz d Neblina
+
+**Brake Fade**: Freios menos eficazes (ex: super aquecimento)
+
+**Cost**: carro na "banguela" ou pé na embreagem
+
+**Street Light**: áreas Urbanas
+
+**Roof Rack**: Suporte do carro na parte de cima
+
+**You are beeing overtaken**: sendo ultrapassado
+
+**No through road**: Rua sem saída
+
+**Dazzling**: ex - Atrapalhar visão de alguem com farol
+
+**Parking Brake**: Freio de mão
+
+**Foot brake**: Freios
+
+**Indicators / Direction Indicator**: Seta
+
+**Sound your horn**: Buzinar
+
+**Warn**: Avisar
+
+**Warning**: Aviso
+
+**Slow Down**: Desacelerar / ir mais devagar
+
+**Wave**: Assenar (muito utilizada na prova como forma de pegadinha)
+
+**Speedup**: Acelerar
+
+**Steady Stream**: Fluxo Constante
+
+**Oncoming traffic**: Tráfico contrário
+
+**Steady**:Constante/Regular
+
+**Junction**: Cruzamento
+
+**Aroundabout**: Rotatória
+
+**Car towing a trailer**: carro rebocando trailer
+
+**Slip road**: Estrada que Conecta na Auto-estrada
+
+**Two-second rule**: regra dos 2 segundos (distância mínima em condições ideais)
+
+**Uneven Road Surface**: Superfície Irregular da estrada
+
+**Prevents**: impedir
+
+**Overtake**: Ultrapassar
+
+**Easy off the accelerator to slow down**: desacelerar de forma "tranquila"
+
+**Brake Firmly**: freiar bruscamente
+
+**BlindSpot**: Onde você não consegue enxergar direito (Ex: motoqueiro no retrovisor)
+
+**Windscreen Pillars**: Ponto cego que você tem na parte da frente do carro (cuidado, não é "BlindSpot")
+
+**Herding Sheep**: Pastor de Ovelhas
+
+**Loose Filler Cap**: Tampa da gasolina solta (loose é quando algo não está firme)
+
+**Fuel spillage**: combustível respingando/derramando
+
+**Fastened**: Preso firmemente
+
+**Cover Note**: Temporary Insurance Certificate
+
+
+
+
+
+
+
+
+## Question that I remember
 - What is your **situation right know**?
 
 - What is your notice period? (or some thing like that)
