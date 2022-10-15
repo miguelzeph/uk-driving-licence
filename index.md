@@ -1,7 +1,7 @@
 # Studies
 ...
 
-## Keys words
+## Key words
 **Manoeuver**: manobra
 
 **Deeped Headlights**: farol baixo
@@ -151,6 +151,30 @@
 **Cover Note**: Temporary Insurance Certificate
 
 
+## Resumo
+
+### Acostamento (Hard Shoulder)
+
+- Pode ser usado como faixa adicional em estrada ATM
+
+### TIME/DISTÂNCIA/VELOCIDADE/SOM
+
+- não dirigir + 2h seguidas
+
+- Não Buzinar em Build up Area entre 11:30pm-7am
+
+- Sempre Manter:
+	- 2 segundos de distância do carro da frente (normal)
+	- 4 segundos ou 2 vezes a distância normal (rodovias molhadas)
+	- 20s ou 10 vezes a distância normal (gelo)
+
+- Warninh Triangule: 45 metros ou 147 pés (NUNCA EM MOTORWAY... SOMENTE EM CARRIAGEWAY - ESTRADAS)
+
+- Velocidade Máxima:
+	- Motorway: 70mph (60mph Trailers / caminhôes + Não usar faixa da direita)
+	- Carriageway:
+		- Dual Road  : 70mph (60mph trailers/ caminhões)
+		- Single Road: 60mph (50mph Trailers/ caminhões)
 
 
 
