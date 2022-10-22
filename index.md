@@ -1,3 +1,41 @@
+## APP utilizado para estudar
+
+- Theory Test 4 in 1 (Android/Iphone)
+
+
+
+## Resumo Lógico das coisas básicas (Mapa-mental)
+
+- Luz:
+	- verde -> sempre médico
+	- azul -> TUDO que for emergência ( ex: polícia, ambulância, polícia especializada em desarmamento de bomba etc)
+	- amarela (ambar)
+		- Geralmente Veículos Lentos / Longos
+		- Passagem de trêm ( luz VERMELHA as vezes)
+- Velócidade Máxima:
+	- Motorway (Rodovias) / DUAL Carriageway (Estradas): 70mph (60mph caminhoes/trailers/reboque etc)
+	- SINGLE Carriage way: 60mph (50 mph idem de cima...)
+	- street: 30mph
+
+- Regra de distanciamento entre carros
+	- 2 segundos, normal
+	- 4 segundos, chuva ( cuidado que eles costumam colocar o dobro do dia normal em vez de 4 segundos)
+	- 20 segundos, neve (cuidado que eles costuma colocar 10x do dia normal em vez de 20 segundos)
+
+- Usar sempre o break hand (freio de mão) quando estiver em uma fila em estrada (evitar atrapalhar o motorista de trás)
+
+- Placas (regra básica)
+	- Formato:
+		- Circular -> indica ORDEM
+		- Triangular -> AVISO
+		- Retangular -> Informação
+	- Cor:
+		- Vermelho: you MUST NOT DO
+		- Azul: Instruction
+
+
+
+
 ## Key words
 
 **Manoeuver**: manobra
@@ -148,7 +186,7 @@
 
 **Cover Note**: Temporary Insurance Certificate
 
-**Gap or Room**: Espaço de distância entre os veículos
+**Gap or Room**: Espaçsmento entre veículos
 
 
 ## Resumo
@@ -229,6 +267,8 @@
 		- Red - you MUST NOTTTTT DO
 	- Road Marking (marcas na pista):
 		- Information or Order or Warning...
+
+- Cruzamento sem Marcação, não tem prioridade
 
 
 ### Lines Along the Road
